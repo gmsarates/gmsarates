@@ -10,7 +10,7 @@
 ###
 
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmsarates.gmsarates&left_text=Visualizações"  />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=gmsarates.gmsarates&left_text=Visitantes"  />
 </div>
 
 ###

@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">Sou o Gabriel! Desenvolvedor web full stack há mais de 5 anos. Nesse período, já me aventurei com desenvolvimento mobile e desktop também.<br><br>- Hoje, trabalho principalmente com Laravel/JS, mas tenho experiência com outras tecnologias 🚀<br>- Minha conta no git existe desde 2017, mas todos os meus grandes projetos são privados 😢</p>
+<p align="left">Sou o Gabriel! Desenvolvedor web full stack desde 2019. Nesse período, já me aventurei com desenvolvimento mobile e desktop também.<br><br>- Hoje, trabalho principalmente com Laravel/JS, mas tenho experiência com outras tecnologias 🚀<br>- Minha conta no git existe desde 2017, mas todos os meus grandes projetos são privados 😢</p>
 
 ###
 
